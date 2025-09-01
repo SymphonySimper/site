@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div
+	class="grid h-svh w-svw place-content-center overflow-hidden bg-white p-4 text-center font-mono text-pretty text-black dark:bg-black dark:text-white"
+>
+	Yeahhhhhhhhhhhh, I will complete it one day.
+</div>
